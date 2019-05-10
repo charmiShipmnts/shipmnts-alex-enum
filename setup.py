@@ -10,7 +10,7 @@ setuptools.setup(
      author_email="charmi@shipmnts.com",
      description="An Enum (currency, freight terms, and weight UOM) utility package",
      long_description=long_description,
-   long_description_content_type="text/markdown",
+     long_description_content_type="text/markdown",
      url="https://github.com/charmiShipmnts/shipmnts-alex-enum",
      packages=setuptools.find_packages(),
      classifiers=[
