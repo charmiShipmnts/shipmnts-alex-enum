@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='shipmnts-alex-enum',  
-     version='0.1',
+     version='0.4',
      author="Charmi Chokshi",
      author_email="charmi@shipmnts.com",
      description="An Enum (currency, freight terms, and weight UOM) utility package",
